@@ -1,0 +1,21 @@
+body{
+    margin: 0 auto;
+    background-color: #FF5500;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJf167sJCfUPpDXd3xqBtc4MdunbNEBVRzig&s);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+p{
+    font-size: 25px;
+}
+
+img{
+    display: inline;
+    width: 30%;
+}
+
+#principal{
+    background-color: #005522;
+    width: 80%;
+}
